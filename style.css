@@ -1,0 +1,17 @@
+p {
+    color: blue;
+    font-size: 120px;
+    text-align: center;
+}
+.texto {
+    color:yellowgreen;
+    font-size: 80px;
+    text-align: center;}
+
+body{
+   background-color: bisque;
+}
+.body2{
+    background-color:azure;
+
+}
